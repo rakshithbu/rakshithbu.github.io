@@ -211,7 +211,7 @@ function sendQuery(){
     }
 
 function booknow(){
-    window.location.href = "bookRoom.html";
+    window.location.href = "bookroom.html";
 }
 
 function book(){
